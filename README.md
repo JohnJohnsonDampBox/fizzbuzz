@@ -17,3 +17,7 @@ Takes in an integer and a hash of number, outputs.  While
 counting up to the integer it will output the value if the integer being iterated over is evenly divisible by the key.
 
 FizzbuzzSpecial(105,{ 3 => 'Fizz', 5 => 'Buzz', 7 => 'Siv'})
+
+License
+=======
+[MIT](http://clu.mit-license.org/)
